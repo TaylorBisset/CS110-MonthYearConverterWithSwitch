@@ -8,7 +8,7 @@ int main()
 	string monthString = "January";
 	int year = 2000;
 
-	cout << "Please input what month you are checking? ";
+	cout << "Please input what month (as a number) you are checking? ";
 	cin >> month;
 	cout << endl;
 
